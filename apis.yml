@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://rickandmortyapi.com
 common:
+  - type: DomainSecurity
+    url: security/rick-and-morty-domain-security.yml
   - type: Website
     url: https://rickandmortyapi.com
   - type: PublicAPIsListing
